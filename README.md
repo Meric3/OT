@@ -2,6 +2,8 @@
 
 ## https://medium.com/@parkie0517/deepsort-simple-online-and-realtime-tracking-with-a-deep-association-metric-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-6f2a8f13781e
 
+논문
+Passive Range Estimation by One Camera Using EKF and Image Processing
 
 1. 연구방향성 소개
 2. 이상탐지 및 OOD detection 에 대한 그림
