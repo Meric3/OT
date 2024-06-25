@@ -2,6 +2,9 @@
 
 ## https://medium.com/@parkie0517/deepsort-simple-online-and-realtime-tracking-with-a-deep-association-metric-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-6f2a8f13781e
 
+칼만 필터링 책
+https://github.com/Chaphlagical/KalmanFilter.git
+
 논문
 Passive Range Estimation by One Camera Using EKF and Image Processing
 
