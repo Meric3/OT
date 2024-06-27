@@ -2,6 +2,10 @@
 
 ## https://medium.com/@parkie0517/deepsort-simple-online-and-realtime-tracking-with-a-deep-association-metric-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-6f2a8f13781e
 
+https://www.c4isrnet.com/artificial-intelligence/
+https://www.c4isrnet.com/opinion/2024/06/26/how-the-military-is-preparing-for-ai-at-the-edge/
+
+
 칼만 필터링 책
 https://github.com/Chaphlagical/KalmanFilter.git
 
