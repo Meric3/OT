@@ -17,3 +17,37 @@ Passive Range Estimation by One Camera Using EKF and Image Processing
 7. 푸리에 도메인 :** SHAP 해석가능한 딥러닝 모델**, SHAP value 와 해석가능한 모델 설명 도 한 장 추가하기! 
 8. What is worng with one-class anomaly Detection?
 9. attention-guided 어쩌구 
+
+
+글로벌 top 10 
+	• Leonardo
+	• Lockheed Martin
+	• SAAB
+	• Thales
+	• Northrop Grumman
+	• BAE Systems 
+	• RTX
+	• Teledyne (FLIR)
+	• 한화시스템
+	
+	• Rafael 
+	• Safran
+		○ https://www.safran-group.com/products-services?search=artificial+intelligence&sort_by=search_api_relevance&display=list
+	• L3Harris
+	• Elbit
+	• Anduril Industries
+	• 주간보고서에서 확인한 회사들
+		○ IAI
+		○ Vallon
+		○ NITEK
+
+
+	• 분기보고서 관련
+		○ https://blog.naver.com/zeongzaehoon/220946013892
+			§ 사업보고서 찾아보는 법
+		○ https://www.sec.gov/ix?doc=/Archives/edgar/data/202058/000020205824000029/hrs-20231229.htm
+			§ L3 보고서
+	• L3harris 
+		○ https://www.l3harris.com/search?q=tags%3A%22Artificial%20Intelligence%2FMachine%20Learning%22&size=n_20_n
+			§ Ai 관련 자료 
+![image](https://github.com/Meric3/OT/assets/25141633/884c646e-69a9-4954-a235-7152a8a77d2d)
