@@ -1,5 +1,43 @@
 # OT
 
+	• 전자광학체계 실무에서 만날 수 있는 AI 개념 및 트렌드 소개 
+		○ 기초 - 잠재공간 과 Softmax 그리고 손실함수 
+		○ AI 트랜드 모델
+			§ 탐지 및 추적 
+				□ YOLO 란 무엇인가? 
+					® DeTR 소개
+				□ 객체 트래킹을 위한 MOT 와 딥러닝의 만남 
+			§ 데이터 수집을 위한 생성형 AI
+				□ Stable Diffusion model 
+				□ Diffusion model의 생성의 마법
+			§ 센서 융합 에 사용될 수 있는 멀티모달 AI의 개념 및 소개
+				□ Grpah 로 데이터 끼리의 상관관계를 학습? - Graphe Neural Network(GNN)
+					® GNN 과 노벨화확상을 받게한 알파폴드 
+				□ 사과 그림과 사과 텍스트가 같은 벡터로 표현된다면? - CLIP
+			§ 동영상 관련 연구
+				□ Action Segmentation 과 1D convolution 의 variants 
+		○ AI를 위한 데이터와 활용 방법론에 대한 개념 소개 
+			§ 데이터 레이블링이란 무엇인가? 
+			§ 고품질의 데이터의 의미와 인과관계 학습을 위한 데이터 구성 
+			§ 데이터가 부족할 때에는 어떠한 방식을 사용하는가?
+				□ 이상탐지
+				□ Few-shot learning 
+				□ Domain Adaptation
+				□ Transfer Learning 
+		○ AI를 활용한 컴퓨터 비전에서의 풀려고 하는 문제들 소개
+			§ 다른 view 에서 본 영상을 알 수 있을까?
+			§ SLAM 을 딥러닝으로 할 수 있을까?
+			§ Depth Estimation 
+	• 다른 분야의 AI
+		○ 생체정보학 
+			§ 해석가능한 딥러닝 모델
+		○ Physics in AI
+		○ 자연어와 ChatGPT 
+			§ Transformer ?
+![image](https://github.com/user-attachments/assets/500572d7-de34-476a-8f0f-d61e05bbeb11)
+
+
+
 ## https://medium.com/@parkie0517/deepsort-simple-online-and-realtime-tracking-with-a-deep-association-metric-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-6f2a8f13781e
 
 https://www.c4isrnet.com/artificial-intelligence/
