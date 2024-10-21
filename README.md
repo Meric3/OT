@@ -1,6 +1,10 @@
 Zhou_NeRF_in_the_Palm_of_Your_Hand_Corrective_Augmentation_for_CVPR_2023_paper
+
  Novel_View_Synthesis_and_Dataset_Augmentation_for_Hyperspectral_Data_Using_NeRF
+ 
  Data_augmentation_for_NeRF_a_geometric_consistent_
+
+ 
  • 데이터를 통한 딥러닝 모델의 학습 방법론 ( 기존 영상처리 알고리즘과 딥러닝과의 필터의 차이는 무엇인가? )
 		○ 학습 목표
 			§ 딥러닝 모델의 학습방법을 이해할 수 있다. 
