@@ -9,7 +9,7 @@ Aircraft plume infrared radiance inversion and subsequent simulation model
 Infrared Characterization of a Micro Turbine Engine Plume
 
 
-
+---
 
 Zhou_NeRF_in_the_Palm_of_Your_Hand_Corrective_Augmentation_for_CVPR_2023_paper
 
