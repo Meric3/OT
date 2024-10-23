@@ -1,3 +1,16 @@
+Infrared Signature Modeling and Analysis of Aircraft Plume
+
+Measurements of a Micro Gas Turbine Plume and Data Reduction for the Purpose of Infrared Signature Modeling
+
+Research on the modeling technique of infrared radiation scaling law for rocket engine exhaust plumes
+
+Aircraft plume infrared radiance inversion and subsequent simulation model
+
+Infrared Characterization of a Micro Turbine Engine Plume
+
+
+
+
 Zhou_NeRF_in_the_Palm_of_Your_Hand_Corrective_Augmentation_for_CVPR_2023_paper
 
  Novel_View_Synthesis_and_Dataset_Augmentation_for_Hyperspectral_Data_Using_NeRF
